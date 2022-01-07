@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux";
-import Counter from "./Components/Counter";
+import Counter from "./Components/Counter/Counter";
 import Todo from "./Components/Todo/Todo";
 import "./styles.css";
 export default function App() {

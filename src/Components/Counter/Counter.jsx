@@ -1,5 +1,5 @@
 import { useDispatch } from "react-redux";
-import { handleCounter } from "../Redux/action";
+import { handleCounter } from "../../Redux/action";
 
 function Counter() {
   const dispatch = useDispatch();
